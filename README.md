@@ -1,5 +1,7 @@
 # city-state ruby gem with locales for i18n
 
+
+# I forked this because jonlov's csv files where misssing some Brazilian cities. (Fortaleza, for example )
 This repository is a fork of the awesome city-state ruby gem that includes MaxMind translated location names to be used in many languages. It works with i18n.
 
 Available languages:
